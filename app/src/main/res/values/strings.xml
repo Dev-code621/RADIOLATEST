@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioG</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dialog_internet_description">You seem to have no internet connection, this app requires internet to load the content.</string>
+    <string name="whoops">Whoops!</string>
+    <string name="audio_notification">Audio Notification\n</string>
+</resources>
